@@ -24,7 +24,7 @@ Voice agent for medical aesthetics clinic (e.g., Lumina Med Spa). Books dermal f
 - Books treatments with accurate slot management and confirmations
 
 ## Demo
-Refer to the attached `project_demo.pdf` for GHL calendar entries, contact creation, n8n workflow, and call examples.
+Refer to the attached `Med Spa Services Voice Agent.pdf` for GHL calendar entries, contact creation, n8n workflow, and call examples.
 
 ## License
 MIT
